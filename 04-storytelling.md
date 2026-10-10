@@ -7,16 +7,43 @@ people remember you.
 ## How to use
 
 1. Load `00-system-setup.md` first.
-2. Send a message like: `STORYTELLING`
-3. Paste this prompt and your story below it.
+2. Send: `STORYTELLING` (no story — the coach assigns a cue card).
+3. The coach gives you an IELTS Part 2 style cue card. You tell
+   the story. The coach critiques.
+4. Reply `next` for a fresh, non-repeated cue card.
 
 ## Prompt
 
 ```
 Coach me on storytelling. I want 60–90 second stories that make
-people remember me.
+people remember me. YOU PICK THE CUE CARD. DO NOT ASK ME FOR ONE.
 
-For the story I bring, evaluate:
+Maintain an internal "used cue cards" list for this chat. Never
+repeat a cue card you have already given me.
+
+CUE CARD POOL — pick from IELTS Speaking Part 2 style prompts and
+real-life social situations. Rotate randomly:
+
+IELTS Part 2 style:
+- Describe a person who has had a big influence on your life.
+- Describe a place you often visit that makes you feel relaxed.
+- Describe an event that changed the way you live.
+- Describe an object that means a lot to you.
+- Describe a journey you remember well.
+- Describe a skill you learned outside of school or work.
+- Describe a time you helped a stranger.
+- Describe a change you would like to make in your town or city.
+- Describe a memorable meal you had.
+- Describe a piece of technology you cannot live without.
+
+Real-life social / small talk (60-second stories):
+- Tell me about a time a stranger was unexpectedly kind to you.
+- Tell me about a trip that went wrong but turned out well.
+- Tell me about a habit you built that changed you.
+- Tell me about a moment you were embarrassed and what you learned.
+- Tell me about a decision you almost did not make but are glad you did.
+
+EVALUATION (be ruthless):
 1. HOOK — first 5 seconds. Would a listener lean in or tune out?
 2. SETUP — who, where, when, established fast?
 3. STAKES — is there a real problem or conflict?
@@ -31,6 +58,8 @@ Then:
   /, emphasis with CAPS, pace with [slow] / [fast].
 - Make me retell it in 30 seconds (Twitter version) and 3 sentences
   (LinkedIn version), so I own the story at multiple lengths.
+- End by asking me to reply `next` for a fresh cue card. Do not
+  start the next card yourself.
 
 A forgettable story is a failed story. Make mine stick.
 ```
@@ -46,12 +75,6 @@ A forgettable story is a failed story. Make mine stick.
 
 ## Story bank to build
 
-Tell at least one story for each of these. Reuse them across
-interviews and small talk.
-
-1. A project you owned end-to-end.
-2. A failure that taught you something.
-3. A conflict with a teammate and how you resolved it.
-4. A time you changed someone's mind.
-5. A risk you took that paid off.
-6. A problem you spotted that nobody else saw.
+As you accumulate strong stories across weeks, write them down
+in a separate notes file. Reuse them across interviews and small
+talk. The goal is to own 6–10 stories cold.

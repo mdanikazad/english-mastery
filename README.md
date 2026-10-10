@@ -8,23 +8,42 @@ delivery in any environment.
 
 1. Open a new ChatGPT conversation.
 2. Paste **00-system-setup.md** first. Send it. Wait for the confirmation.
-3. Reply with one of the mode names in brackets, e.g.
-   *"FLUENCY DRILL on the topic: tell me about a project you led."*
+3. Reply with the mode name (e.g. `FLUENCY DRILL`, `STORYTELLING`,
+   `MOCK INTERVIEW — brutal`). No topic — the coach picks it.
 4. Speak (in voice mode) or type your answer.
-5. Get ruthless feedback. Apply the rewrite. Repeat.
-6. Use one mode per session. Switch modes across days.
+5. Get ruthless feedback. Apply the rewrite.
+6. Reply `next` for a fresh, non-repeated topic or question. Never
+   reuse the same item in the same chat.
+7. Use one mode per session. Switch modes across days.
 
 Do not paste multiple mode prompts in one chat. They are designed to be
 loaded one at a time on top of the system setup.
 
+## The coach picks every topic and question
+
+You never supply a topic. The system setup instructs the coach to:
+
+- bias toward **daily-life** and **IELTS Speaking** pools (Part 1
+  short answers, Part 2 cue cards, common behavioral / situational
+  interview questions)
+- maintain an internal "used topics" list for the chat so nothing
+  repeats
+- wait for your `next` before advancing
+- never ask you to provide a topic, question, or cue card
+
+This trains the *formulation* problem (turning cold material into
+fluent speech) instead of the *content* problem (rehearsing stories
+you already own).
+
 ## Files
 
-- `00-system-setup.md` — paste first, once per chat. Sets the rules and tone.
-- `01-fluency-drill.md` — kills fillers, fast pace, long sentences, and
-  broken formulation.
+- `00-system-setup.md` — paste first, once per chat. Sets the rules,
+  tone, and topic-picking rules.
+- `01-fluency-drill.md` — kills fillers, fast pace, long sentences,
+  and broken formulation.
 - `02-pronunciation.md` — IPA, mouth placement, connected speech.
-- `03-interview-answer.md` — STAR/PAR structure, specifics, and the cure
-  for "vague" feedback.
+- `03-interview-answer.md` — STAR/PAR structure, specifics, and the
+  cure for "vague" feedback.
 - `04-storytelling.md` — hook, stakes, detail, and 90-second scripts.
 - `05-mock-interview.md` — full pressure simulation with running scores.
 - `06-sentence-reform.md` — breaks long, tangled sentences into punchy units.

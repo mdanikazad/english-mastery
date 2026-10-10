@@ -16,8 +16,10 @@ Sundays are a full simulation. Treat it like a real interview.
 ## Daily session shape (45 min)
 
 1. Warm up (5 min) — speak for 2 minutes on any topic. Just flow.
-2. Main drill (30 min) — load the day's mode, do 3–5 reps.
-3. Cool down (10 min) — re-tell your best answer of the day in 30 seconds.
+2. Main drill (30 min) — load the day's mode, do 3–5 reps. Reply
+   `next` between reps so the coach never repeats a topic.
+3. Cool down (10 min) — re-tell your best answer of the day in 30
+   seconds.
 
 ## Monthly checkpoints
 
