@@ -48,6 +48,7 @@ you already own).
 - `05-mock-interview.md` — full pressure simulation with running scores.
 - `06-sentence-reform.md` — breaks long, tangled sentences into punchy units.
 - `07-weekly-rotation.md` — the 7-day training schedule.
+- `08-beginner-3week.md` — a 3-week ramp (confidence → length → accuracy) for true beginners, before they join the main pack.
 
 ## The core rule
 
